@@ -24,3 +24,6 @@ Firstly, I wanted a cool business card. Secondly, it's nice working on such a si
 |LED                 |Indicator for PCB   |$0.012      |
 |25x48mm Antenna     |Antenna for NFC     |N/A         |
 |47ohm Resistor      |Resistor            |$0.004      |
+|Final Cost          |                    |$5.94       |
+
+<img width="620" height="274" alt="image" src="https://github.com/user-attachments/assets/3ecbf410-f148-455d-bffb-41d2c46e9c2a" />
