@@ -24,6 +24,10 @@ Firstly, I wanted a cool business card. Secondly, it's nice working on such a si
 |LED                 |Indicator for PCB   |$0.012      |
 |25x48mm Antenna     |Antenna for NFC     |N/A         |
 |47ohm Resistor      |Resistor            |$0.004      |
-|Final Cost          |                    |$5.94       |
+|Final Cost (PCB)    |                    |$28.64      |
 
-<img width="620" height="274" alt="image" src="https://github.com/user-attachments/assets/3ecbf410-f148-455d-bffb-41d2c46e9c2a" />
+
+<img width="956" height="428" alt="image" src="https://github.com/user-attachments/assets/1f01115a-20eb-4533-b39d-ae7ac7c97c2a" />
+
+# This is what JLCPCB gave me so.. not fun price but oh well. It's mostly shipping anyway..
+
