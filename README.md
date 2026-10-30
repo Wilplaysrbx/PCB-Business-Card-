@@ -2,7 +2,7 @@
 This is my design for a personal NFC business card. I decided to try this for fun while doing a few other things. I added my name, title, and some things I thought would be interesting. The card features a NFC chip so that it is able to be scanned via your phone and it should bring you to.. wherever. A QR Code is also added just in case, able to scanned. And some additional things as well.
 
 # Why would I make this?
-Firstly, I wanted a cool business card. Secondly, it's nice working on such a simple project, and one that you can put your thoughts and be able to express yourself.
+Firstly, I wanted a cool business card. Secondly, it's nice working on such a simple project, and one that you can put your thoughts and be able to express yourself. And it's a business card that you can give to people, like your friends or your colleagues at work.
 
 # PCB Photos
 
@@ -26,6 +26,11 @@ Firstly, I wanted a cool business card. Secondly, it's nice working on such a si
 |47ohm Resistor      |Resistor            |$0.004      |
 |Final Cost (PCB)    |                    |$28.64      |
 
+
+# Sources
+Of course credit is needed where credit is due..
+Guide used: https://jams.hackclub.com/jam/hacker-card
+Reference for Github: https://github.com/yash2942012-cpu/PCB-Business-Card
 
 <img width="956" height="428" alt="image" src="https://github.com/user-attachments/assets/1f01115a-20eb-4533-b39d-ae7ac7c97c2a" />
 
