@@ -24,7 +24,7 @@ Firstly, I wanted a cool business card. Secondly, it's nice working on such a si
 |LED                 |Indicator for PCB   |$0.013      |https://www.lcsc.com/product-detail/C2296.html |
 |25x48mm Antenna     |Antenna for NFC     |N/A         |N/A (copper trace on PCB, included in PCB) |
 |47ohm Resistor      |Resistor            |$0.002      |https://www.lcsc.com/product-detail/C23182.html |
-|Final Cost (PCB)    |The PCB for everything |                   |$28.64      |https://jlcpcb.com |
+|Final Cost (PCB)    |The PCB for everything |         |$28.64      |https://jlcpcb.com |
 Note: At the time I updated this BOM, these were the prices. If it changes, well that's sad day for me. 
 
 # Sources
