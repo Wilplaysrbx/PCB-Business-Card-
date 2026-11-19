@@ -17,15 +17,15 @@ Firstly, I wanted a cool business card. Secondly, it's nice working on such a si
 <img width="533" height="315" alt="Screenshot 2026-10-04 234341" src="https://github.com/user-attachments/assets/7e1d3387-ee02-453c-9113-8e6b1f181e5d" />
 
 # BOM 
-| Name               | Purpose            | Total Cost |
-| -------------------|--------------------|------------|
-|NT3H2111W0FHKH      |NFC Chip            |$0.622      |
-|220nF Capacitor     |Capacitor           |$0.014      |
-|LED                 |Indicator for PCB   |$0.012      |
-|25x48mm Antenna     |Antenna for NFC     |N/A         |
-|47ohm Resistor      |Resistor            |$0.004      |
+| Name               | Purpose            | Total Cost | Links |
+| -------------------|--------------------|------------|-------|
+|NT3H2111W0FHKH      |NFC Chip            |$0.5633     |https://www.lcsc.com/product-detail/RFID-ICs_NXP-Semicon-NT3H2111W0FHKH_C710403.html |
+|220nF Capacitor     |Capacitor           |$0.009      |https://www.lcsc.com/product-detail/C21120.html |
+|LED                 |Indicator for PCB   |$0.013      |https://www.lcsc.com/product-detail/C2296.html |
+|25x48mm Antenna     |Antenna for NFC     |N/A         |N/A (copper trace on PCB |
+|47ohm Resistor      |Resistor            |$0.002      |https://www.lcsc.com/product-detail/C23182.html |
 |Final Cost (PCB)    |                    |$28.64      |
-
+Note: At the time I updated this BOM, these were the prices. If it changes, well that's sad day for me.
 
 # Sources
 Of course credit is needed where credit is due..
