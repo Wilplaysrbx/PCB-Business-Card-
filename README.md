@@ -22,10 +22,10 @@ Firstly, I wanted a cool business card. Secondly, it's nice working on such a si
 |NT3H2111W0FHKH      |NFC Chip            |$0.5633     |https://www.lcsc.com/product-detail/RFID-ICs_NXP-Semicon-NT3H2111W0FHKH_C710403.html |
 |220nF Capacitor     |Capacitor           |$0.009      |https://www.lcsc.com/product-detail/C21120.html |
 |LED                 |Indicator for PCB   |$0.013      |https://www.lcsc.com/product-detail/C2296.html |
-|25x48mm Antenna     |Antenna for NFC     |N/A         |N/A (copper trace on PCB |
+|25x48mm Antenna     |Antenna for NFC     |N/A         |N/A (copper trace on PCB, included in PCB) |
 |47ohm Resistor      |Resistor            |$0.002      |https://www.lcsc.com/product-detail/C23182.html |
-|Final Cost (PCB)    |                    |$28.64      |
-Note: At the time I updated this BOM, these were the prices. If it changes, well that's sad day for me.
+|Final Cost (PCB)    |                    |$28.64      |https://jlcpcb.com / https://cart.jlcpcb.com/shopcart/cart |
+Note: At the time I updated this BOM, these were the prices. If it changes, well that's sad day for me. 
 
 # Sources
 Of course credit is needed where credit is due..
